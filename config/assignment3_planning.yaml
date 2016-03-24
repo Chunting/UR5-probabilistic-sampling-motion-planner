@@ -1,0 +1,6 @@
+planner_configs:
+  CS436Planner:
+    type: CS436Planner
+lwr:
+  planner_configs:
+    - CS436Planner
